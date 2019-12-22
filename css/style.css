@@ -76,7 +76,9 @@ img, video, audio{
 }
 
 *{
-  
+  -webkit-box-sizing:border-box;
+  -box-sizing:border-box;
+  box-sizing:border-box;
 }
 
 .wrapper{
